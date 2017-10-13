@@ -3,6 +3,11 @@
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
+#### Name: [Rhiya Ramesh](https://github.com/rhiya-ramesh)
+- Place: Bangalore,India
+- Bio: CS Undergrad.
+- GitHub: [Rhiya Ramesh](https://github.com/rhiya-ramesh)
+
 #### Name: [GABE DUNN](https://github.com/redxtech)
 - Place: Canada
 - Bio: I love VUE !!
